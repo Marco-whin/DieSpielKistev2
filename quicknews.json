@@ -1,0 +1,34 @@
+{
+  "news": [
+    {
+      "masterID": "NEWS001",
+      "title": "Neues Witcher 3-Update bringt Raytracing",
+      "author": "CD Projekt Red",
+      "postDate": "2023-11-28",
+      "slaveIDs": ["PATCH001", "DLC005"],
+      "imageLinks": [
+        "https://example.com/witcher3_rt_update.jpg",
+        "https://example.com/witcher3_comparison.png"
+      ],
+      "longDescription": "Das neueste Update für The Witcher 3 fügt Raytracing-Unterstützung hinzu... (ausführliche Beschreibung).",
+      "socialMedia": {
+        "twitter": "https://twitter.com/witchergame/status/123456",
+        "youtube": "https://youtube.com/watch?v=abcd1234"
+      }
+    },
+    {
+      "masterID": "NEWS002",
+      "title": "Cyberpunk 2077: Phantom Liberty verkauft 5 Millionen Mal",
+      "author": "CD Projekt Red",
+      "postDate": "2023-11-25",
+      "slaveIDs": ["DLC006"],
+      "imageLinks": [
+        "https://example.com/phantom_liberty_sales.jpg"
+      ],
+      "longDescription": "Der Erweiterung 'Phantom Liberty' gelang ein starker Start...",
+      "socialMedia": {
+        "reddit": "https://reddit.com/r/cyberpunkgame/comments/xyz123"
+      }
+    }
+  ]
+}
