@@ -7,20 +7,24 @@
       "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
       "score": 93,
       "genre": "Action-RPG",
-      "slaveIDs": ["DLC001", "DLC002", "MOD001"],
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/witcher/comments/xyz123",
+        "twitter": "https://twitter.com/witchergame/status/123456",
+        "youtube": "https://www.youtube.com/watch?v=abcd1234",
+        "instagram": "https://www.instagram.com/p/xyz789/"
+      },
       "author": "CD Projekt Red",
       "postDate": "2023-10-15",
-      "shortDescription": "Ein episches Open-World-Rollenspiel mit einer tiefen Handlung.",
-      "longDescription": "The Witcher 3 ist ein Meisterwerk des RPG-Genres... (hier ausführlicher Text).",
+      "shortDescription": "Ein episches Open-World-Rollenspiel.",
+      "longDescription": "The Witcher 3 ist ein Meisterwerk...",
       "imageLinks": [
-        "https://example.com/witcher3_cover.jpg",
-        "https://example.com/witcher3_screenshot1.jpg"
+        "https://example.com/witcher3_cover.jpg"
       ],
-      "price": 39.99,  // Einfacher Preis (keine Aufteilung in low/high)
+      "price": 39.99,
       "verdict": "Eines der besten RPGs aller Zeiten.",
       "prosCons": {
-        "pros": ["Atmosphärische Welt", "Tiefe Charaktere"],
-        "cons": ["Steile Lernkurve"]
+        "pros": ["Atmosphäre", "Story"],
+        "cons": ["Lernkurve"]
       }
     },
     {
@@ -30,16 +34,22 @@
       "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
       "score": 75,
       "genre": "Open-World-RPG",
-      "slaveIDs": ["DLC003"],
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/cyberpunkgame/comments/abc456",
+        "twitter": "https://twitter.com/cyberpunkgame/status/789012",
+        "youtube": "https://www.youtube.com/watch?v=efgh5678"
+      },
       "author": "CD Projekt Red",
       "postDate": "2023-11-20",
-      "shortDescription": "Ein futuristisches RPG in Night City.",
-      "longDescription": "Cyberpunk 2077 bietet eine immersive Cyberpunk-Welt...",
-      "imageLinks": ["https://example.com/cyberpunk_cover.jpg"],
-      "price": 49.99,  // Einfacher Preis
-      "verdict": "Hochambitioniert, aber mit Schwächen.",
+      "shortDescription": "Futuristisches RPG in Night City.",
+      "longDescription": "Cyberpunk 2077 bietet...",
+      "imageLinks": [
+        "https://example.com/cyberpunk_cover.jpg"
+      ],
+      "price": 49.99,
+      "verdict": "Ambitioniert, aber buggy.",
       "prosCons": {
-        "pros": ["Art-Design", "Hauptstory"],
+        "pros": ["Art-Design", "Soundtrack"],
         "cons": ["Technische Probleme"]
       }
     }
