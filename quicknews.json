@@ -19,11 +19,12 @@
     {
       "masterID": "NEWS002",
       "title": "Cyberpunk 2077: Phantom Liberty verkauft 5 Millionen Mal",
-      "author": "CD Projekt Red",
+      "author": "Marco",
       "postDate": "2024-11-30",
       "slaveIDs": ["DLC006"],
       "imageLinks": [
-        "https://static1.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-08-dec-2024-01-48-pm-7604.jpg?q=50&fit=crop&w=480&dpr=1.5"
+        "https://static1.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-08-dec-2024-01-48-pm-7604.jpg?q=50&fit=crop&w=480&dpr=1.5",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgaming-cdn.com%2Fimages%2Fnews%2Farticles%2F4173%2Fcover%2Fcyberpunk-2077-phantom-liberty-verkauft-sich-uber-5-millionen-mal-cover6596df70e70d1.jpg&f=1&nofb=1&ipt=9194b0248e1b2da6337d99a0b1a73b507c377534f50c76490042228113341f16"
       ],
       "longDescription": "Der Erweiterung 'Phantom Liberty' gelang ein starker Start...",
       "socialMedia": {
