@@ -14,6 +14,11 @@
       "socialMedia": {
         "twitter": "https://twitter.com/witchergame/status/123456",
         "youtube": "https://youtube.com/watch?v=abcd1234"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/entwickler/status/12345",
+        "Offizielle Website": "https://spiel-xyz.com/news",
+        "YouTube": "https://youtube.com/watch?v=abc123"
       }
     },
     {
