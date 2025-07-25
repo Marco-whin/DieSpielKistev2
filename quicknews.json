@@ -1,39 +1,20 @@
 {
   "news": [
     {
-      "masterID": "NEWS001",
-      "title": "Neues Witcher 3-Update bringt Raytracing",
-      "author": "CD Projekt Red",
-      "postDate": "2023-11-28",
-      "slaveIDs": ["PATCH001", "DLC005"],
+      "masterID": "news1",
+      "title": "Neues Spiel angekündigt",
+      "author": "Max Mustermann",
+      "postDate": "2023-05-15",
       "imageLinks": [
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.suwalls.com%2Fwallpapers%2Fgames%2Fthe-witcher-3-wild-hunt-31455-1920x1080.jpg&f=1&nofb=1&ipt=5438e0d1b45bf8e0c27007c995950f7aea19602ac222a62bb2d7b7b60768ba07",
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamespot.com%2Fa%2Fuploads%2Fscreen_kubrick%2F1574%2F15746725%2F4076770-witcher3_site.jpg&f=1&nofb=1&ipt=0f0a13b9a64f8910785d1ec58a71c0ab81d698abcdf08f1f92f580dd53456efd"
+        "https://example.com/news1.jpg"
       ],
-      "longDescription": "Das neueste Update für The Witcher 3 fügt Raytracing-Unterstützung hinzu... [IMAGE] (ausführliche Beschreibung).",
+      "longDescription": "Hier kommt eine ausführliche Beschreibung... [IMAGE]",
       "socialMedia": {
-        "twitter": "https://twitter.com/witchergame/status/123456",
-        "youtube": "https://youtube.com/watch?v=abcd1234"
+        "Twitter": "https://twitter.com/entwickler/status/12345"
       },
       "sources": {
-    "Twitter": "https://twitter.com/...",
-    "Website": "https://example.com/news"
-      }
-    },
-    {
-      "masterID": "ID17",
-      "title": "Cyberpunk 2077: Phantom Liberty verkauft 5 Millionen Mal",
-      "author": "Marco",
-      "postDate": "2024-11-30",
-      "slaveIDs": ["DLC006"],
-      "imageLinks": [
-        "https://static1.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-08-dec-2024-01-48-pm-7604.jpg?q=50&fit=crop&w=480&dpr=1.5",
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgaming-cdn.com%2Fimages%2Fnews%2Farticles%2F4173%2Fcover%2Fcyberpunk-2077-phantom-liberty-verkauft-sich-uber-5-millionen-mal-cover6596df70e70d1.jpg&f=1&nofb=1&ipt=9194b0248e1b2da6337d99a0b1a73b507c377534f50c76490042228113341f16"
-      ],
-      "shortDescription": "Test1",
-      "longDescription": "Der Erweiterung 'Phantom Liberty' gelang ein [IMAGE] starker Start...",
-      "socialMedia": {
-        "reddit": "https://reddit.com/r/cyberpunkgame/comments/xyz123"
+        "Twitter": "https://twitter.com/entwickler/status/12345",
+        "Website": "https://spiel-xyz.com/news"
       }
     }
   ]
