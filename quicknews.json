@@ -7,10 +7,10 @@
       "postDate": "2023-11-28",
       "slaveIDs": ["PATCH001", "DLC005"],
       "imageLinks": [
-        "https://example.com/witcher3_rt_update.jpg",
-        "https://example.com/witcher3_comparison.png"
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.suwalls.com%2Fwallpapers%2Fgames%2Fthe-witcher-3-wild-hunt-31455-1920x1080.jpg&f=1&nofb=1&ipt=5438e0d1b45bf8e0c27007c995950f7aea19602ac222a62bb2d7b7b60768ba07",
+        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamespot.com%2Fa%2Fuploads%2Fscreen_kubrick%2F1574%2F15746725%2F4076770-witcher3_site.jpg&f=1&nofb=1&ipt=0f0a13b9a64f8910785d1ec58a71c0ab81d698abcdf08f1f92f580dd53456efd"
       ],
-      "longDescription": "Das neueste Update für The Witcher 3 fügt Raytracing-Unterstützung hinzu... (ausführliche Beschreibung).",
+      "longDescription": "Das neueste Update für The Witcher 3 fügt Raytracing-Unterstützung hinzu... [IMAGE] (ausführliche Beschreibung).",
       "socialMedia": {
         "twitter": "https://twitter.com/witchergame/status/123456",
         "youtube": "https://youtube.com/watch?v=abcd1234"
