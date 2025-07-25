@@ -34,7 +34,11 @@
       "longDescription": "Der Erweiterung 'Phantom Liberty' gelang ein [IMAGE] starker Start...",
       "socialMedia": {
         "reddit": "https://reddit.com/r/cyberpunkgame/comments/xyz123"
-      }
+      },
+      "sources": [
+      "Twitter": "https://twitter.com/...",
+      "Website": "https://example.com/news"
+        ]
     }
   ]
 }
