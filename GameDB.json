@@ -3,7 +3,7 @@
     {
       "masterID": "NEWS001",
       "name": "The Witcher 3: Wild Hunt",
-      "releaseDate": "2015-05-19",
+      "releaseDate": "2030-05-19",
       "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
       "score": 23,
       "genre": "Action-RPG",
@@ -34,7 +34,7 @@
       "releaseDate": "2020-12-10",
       "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
       "score": 99,
-      "genre": "Open-World-RPG",
+      "genre": "Testrolle",
       "socialMedia": {
         "reddit": "https://www.reddit.com/r/cyberpunkgame/comments/abc456",
         "twitter": "https://twitter.com/cyberpunkgame/status/789012",
