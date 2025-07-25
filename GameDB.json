@@ -1,7 +1,7 @@
 {
   "games": [
     {
-      "masterID": "GAME001",
+      "masterID": "NEWS001",
       "name": "The Witcher 3: Wild Hunt",
       "releaseDate": "2015-05-19",
       "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
