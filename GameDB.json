@@ -1,10 +1,10 @@
 {
   "games": [
     {
-      "masterID": "NEWS001",
-      "name": "The Witcher 3: Wild Hunt",
-      "releaseDate": "2030-05-19",
-      "platforms": ["PC", "PlayStation 4", "Xbox One", "Nintendo Switch"],
+      "masterID": "Spiel1",
+      "name": "The Legend of Zelda: Breath of the Wild ",
+      "releaseDate": "2017-03-03",
+      "platforms": ["Wii U", "Nintendo Switch", "Nintendo Switch 2"],
       "score": 23,
       "genre": "Action-RPG",
       "socialMedia": {
