@@ -2,56 +2,384 @@
   "games": [
     {
       "masterID": "Spiel1",
-      "name": "The Legend of Zelda: Breath of the Wild ",
-      "releaseDate": "2017-03-03",
-      "platforms": ["Wii U", "Nintendo Switch", "Nintendo Switch 2"],
-      "score": 23,
+      "name": "Avowed",
+      "releaseDate": "2025-02-18",
+      "platforms": ["PC", "Xbox Series X"],
+      "score": 86,
       "genre": "Action-RPG",
       "socialMedia": {
-        "reddit": "https://www.reddit.com/r/witcher/comments/xyz123",
-        "twitter": "https://twitter.com/witchergame/status/123456",
-        "youtube": "https://www.youtube.com/watch?v=abcd1234",
-        "instagram": "https://www.instagram.com/p/xyz789/"
+        "reddit": "https://www.reddit.com/r/avowed/comments/1fancy123",
+        "twitter": "https://twitter.com/avowed/status/987654321",
+        "youtube": "https://www.youtube.com/watch?v=abcd4321",
+        "instagram": "https://www.instagram.com/p/avowed_living_lands/"
       },
-      "author": "CD Projekt Red",
-      "postDate": "2024-10-15",
-      "shortDescription": "Ein episches Open-World-Rollenspiel.",
-      "longDescription": "The Witcher 3 ist ein [IMAGE] Meisterwerk...",
+      "author": "Marco",
+      "postDate": "2025-02-20",
+      "shortDescription": "Ein First-Person Fantasy-RPG in der Welt von Eora.",
+      "longDescription": "Avowed ist das neue Fantasy-Epos von Obsidian Entertainment. [IMAGE] Spieler erkunden die lebendige und gefährliche Living Lands, ein von Träumen und Plagen heimgesuchtes Grenzland. Der Kampf ist actionreich und erlaubt mächtige Kombos aus Waffen und Magie.",
       "imageLinks": [
-        "https://static1.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-08-dec-2024-01-48-pm-7604.jpg?q=50&fit=crop&w=480&dpr=1.5",
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fd1lss44hh2trtw.cloudfront.net%2Fassets%2Farticle%2F2022%2F12%2F11%2Fthe-witcher-3-wild-hunt-next-gen-update-brings-some-long-overdue-features_feature.jpg&f=1&nofb=1&ipt=b6b8b06d4913a6bdf09ca0d726a14b5bd6ca785b7683e607efb6412356711477"
+        "https://assets.xboxservices.com/assets/5f/9b/5f9b5b1a-dedf-4c10-a5df-1d1e5d6d8c4b.jpg?n=Avowed_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2454900/ss_8b2d1d0a3b1f2c3e4d5e6f7a8b9c0d1e2f3a4b5c.1920x1080.jpg"
       ],
-      "price": 39.99,
-      "verdict": "Eines der besten RPGs aller Zeiten.",
+      "price": 69.99,
+      "verdict": "Ein fesselnder Einstieg in ein neues Fantasy-Abenteuer.",
       "prosCons": {
-        "pros": ["Atmosphäre", "Story"],
-        "cons": ["Lernkurve"]
+        "pros": ["Kämpfe", "Weltendesign", "Charakterentwicklung"],
+        "cons": ["Technische Probleme zum Launch"]
       }
     },
     {
       "masterID": "ID17",
-      "name": "Cyberpunk 2077",
-      "releaseDate": "2020-12-10",
+      "name": "Kingdom Come: Deliverance II",
+      "releaseDate": "2025-02-04",
       "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
-      "score": 99,
-      "genre": "Testrolle",
+      "score": 90,
+      "genre": "Action-RPG",
       "socialMedia": {
-        "reddit": "https://www.reddit.com/r/cyberpunkgame/comments/abc456",
-        "twitter": "https://twitter.com/cyberpunkgame/status/789012",
-        "youtube": "https://www.youtube.com/watch?v=efgh5678"
+        "reddit": "https://www.reddit.com/r/kingdomcome/comments/1hb2j3k",
+        "twitter": "https://twitter.com/KingdomComeRPG/status/1887654321",
+        "youtube": "https://www.youtube.com/watch?v=XYZlmnop"
       },
-      "author": "CD Projekt Red",
-      "postDate": "2025-11-20",
-      "shortDescription": "Futuristisches RPG in Night City.",
-      "longDescription": "Cyberpunk 2077 bietet...",
+      "author": "Kenny",
+      "postDate": "2025-02-06",
+      "shortDescription": "Setze Heinrichs Reise im mittelalterlichen Böhmen fort.",
+      "longDescription": "Der lang erwartete Nachfolger des beliebten Mittelalter-RPGs ist da! [IMAGE] Kingdom Come: Deliverance II baut auf allem auf, was das Original so besonders machte: historische Authentizität, ein komplexes Kampfsystem und eine fesselnde Geschichte voller Intrigen und Rache.",
       "imageLinks": [
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgaming-cdn.com%2Fimages%2Fnews%2Farticles%2F4173%2Fcover%2Fcyberpunk-2077-phantom-liberty-verkauft-sich-uber-5-millionen-mal-cover6596df70e70d1.jpg&f=1&nofb=1&ipt=9194b0248e1b2da6337d99a0b1a73b507c377534f50c76490042228113341f16"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/0806/3f7b2d8f8a6b4c3d2e1f0a9b8c7d6e5f4a3b2c1d.png",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/header.jpg"
+      ],
+      "price": 59.99,
+      "verdict": "Ein würdiger Nachfolger und ein Muss für Fans historischer RPGs.",
+      "prosCons": {
+        "pros": ["Immersion", "Grafik", "Kampfsystem"],
+        "cons": ["Langsamer Einstieg"]
+      }
+    },
+    {
+      "masterID": "Spiel3",
+      "name": "Assassin's Creed Shadows",
+      "releaseDate": "2025-03-20",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+      "score": 82,
+      "genre": "Action-Adventure",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/assassinscreed/comments/1jshadows",
+        "twitter": "https://twitter.com/assassinscreed/status/1234567890",
+        "youtube": "https://www.youtube.com/watch?v=shadows123",
+        "instagram": "https://www.instagram.com/p/feudal_japan/"
+      },
+      "author": "Tim",
+      "postDate": "2025-03-22",
+      "shortDescription": "Erlebe das feudale Japan mit zwei einzigartigen Helden.",
+      "longDescription": "Ubisoft entführt die Spieler endlich ins feudale Japan! [IMAGE] In Assassin's Creed Shadows schlüpfst du in die Rollen von Naoe, einer geschickten Shinobi-Assassinin, und Yasuke, dem legendären afrikanischen Samurai. Ihre unterschiedlichen Spielstile bieten frische Perspektiven auf die offene Welt.",
+      "imageLinks": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042430/header.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202405/2719/2a7f8c9b8d4e6f2a1c3b5d7e9f0a1b2c3d4e5f6a.png"
+      ],
+      "price": 79.99,
+      "verdict": "Ein erfrischender Neustart für die Reihe mit starker Atmosphäre.",
+      "prosCons": {
+        "pros": ["Zwei Protagonisten", "Schauplatz Japan", "Stealth"],
+        "cons": ["Typische Open-World-Struktur", "UI überladen"]
+      }
+    },
+    {
+      "masterID": "Spiel4",
+      "name": "Monster Hunter Wilds",
+      "releaseDate": "2025-02-28",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+      "score": 93,
+      "genre": "Action-RPG",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/MonsterHunter/comments/1iwilds",
+        "twitter": "https://twitter.com/monsterhunter/status/1597534682",
+        "youtube": "https://www.youtube.com/watch?v=wilds_mh",
+        "instagram": "https://www.instagram.com/p/monster_hunter_wilds/"
+      },
+      "author": "Marco",
+      "postDate": "2025-03-01",
+      "shortDescription": "Jage gewaltige Monster in einer dynamischen, lebendigen Welt.",
+      "longDescription": "Die nächste Generation der Monster Hunter-Reihe ist da! [IMAGE] Monster Hunter Wilds bietet eine nahtlos verbundene Karte, in der sich die Umgebung und das Verhalten der Monster durch Wetterumschwünge und Jahreszeiten dynamisch verändern. Stelle dich neuen und bekannten Bestien mit verbesserten Waffen und Bewegungsmöglichkeiten.",
+      "imageLinks": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000085107/0a5b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/ss_9e8d7f6c5b4a3e2d1f0a9b8c7d6e5f4a3b2c1d0e.1920x1080.jpg"
+      ],
+      "price": 69.99,
+      "verdict": "Das ultimative Monster Hunter-Erlebnis mit beeindruckender Technik.",
+      "prosCons": {
+        "pros": ["Monsterdesign", "Kampfsystem", "Kooperative Spiel"],
+        "cons": ["Einstiegshürde für Neulinge", "Story"]
+      }
+    },
+    {
+      "masterID": "Spiel5",
+      "name": "Civilization VII",
+      "releaseDate": "2025-02-11",
+      "platforms": ["PC", "Mac", "Linux", "PlayStation 5", "Xbox Series X", "Nintendo Switch 2"],
+      "score": 88,
+      "genre": "Rundenbasierte Strategie",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/civ/comments/1aiciv7",
+        "twitter": "https://twitter.com/CivGame/status/1627384950",
+        "youtube": "https://www.youtube.com/watch?v=civ7_gameplay"
+      },
+      "author": "Kenny",
+      "postDate": "2025-02-12",
+      "shortDescription": "Führe deine Zivilisation durch die Zeitalter und schreibe Geschichte.",
+      "longDescription": "Die legendäre Strategie-Reihe ist zurück mit bahnbrechenden Neuerungen! [IMAGE] Civilization VII führt dynamische Zeitalterwechsel ein, die deine Entscheidungen und deine gewählte Kultur direkt beeinflussen. Städte können sich nun über mehrere Felder erstrecken und die Diplomatie wurde grundlegend überarbeitet, um realistischere Allianzen und Konflikte zu schaffen.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0705/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t.jpg",
+        "https://cdn.2kgames.com/2024/08/civvii_announce_art_16x9.jpg"
+      ],
+      "price": 69.99,
+      "verdict": "Ein weiterer Meilenstein für das Strategiespiel-Genre.",
+      "prosCons": {
+        "pros": ["Neues Zeitalter-System", "Tiefe", "Wiederspielbarkeit"],
+        "cons": ["KI teils unberechenbar"]
+      }
+    },
+    {
+      "masterID": "Spiel6",
+      "name": "Like a Dragon: Pirate Yakuza in Hawaii",
+      "releaseDate": "2025-02-21",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X", "PlayStation 4", "Xbox One"],
+      "score": 84,
+      "genre": "Action-Adventure",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/yakuzagames/comments/1pirate",
+        "twitter": "https://twitter.com/ryugagotoku/status/1754321987",
+        "instagram": "https://www.instagram.com/p/likeadragon_pirate/"
+      },
+      "author": "Tim",
+      "postDate": "2025-02-22",
+      "shortDescription": "Goro Majima legt sich ein Piratenoutfit zu und erobert die Meere.",
+      "longDescription": "Der verrückteste Ableger der Like a Dragon-Reihe ist da! [IMAGE] Dieses Mal steuern wir den verrückten Hund von Shimano, Goro Majima, der mit Amnesie an den Stränden Hawaiis angespült wird. Schnell schart er eine Piratencrew um sich, liefert sich actionreiche Seeschlachten und sucht nach einem legendären Schatz – natürlich mit dem typischen, irren Humor der Reihe.",
+      "imageLinks": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670460/header.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/2400/8f7e6d5c4b3a2e1d0f9a8b7c6d5e4f3a2b1c0d9e.png"
+      ],
+      "price": 59.99,
+      "verdict": "Majima in Bestform – ein wilder Ritt für Fans und Neulinge.",
+      "prosCons": {
+        "pros": ["Charaktere", "Minigames", "Story"],
+        "cons": ["Kämpfe repetitiv"]
+      }
+    },
+    {
+      "masterID": "Spiel7",
+      "name": "Lost Soul Aside",
+      "releaseDate": "2025-05-30",
+      "platforms": ["PC", "PlayStation 5"],
+      "score": 81,
+      "genre": "Action-RPG",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/LostSoulAside/comments/1lsa",
+        "twitter": "https://twitter.com/lostsoulaside/status/1827364501",
+        "youtube": "https://www.youtube.com/watch?v=lsa_trailer"
+      },
+      "author": "Marco",
+      "postDate": "2025-06-01",
+      "shortDescription": "Ein stylishes Action-RPG, inspiriert von Final Fantasy und Devil May Cry.",
+      "longDescription": "Das Indie-Projekt, das die Herzen der Fans höher schlagen ließ, ist endlich fertig! [IMAGE] Lost Soul Aside ist ein visuell atemberaubendes Action-RPG, in dem der Protagonist Kaser eine symbiotische Verbindung mit einem mysteriösen Kreaturenwesen eingeht. Gemeinsam kämpfen sie sich durch atemberaubende Landschaften und liefern sich blitzschnelle Kämpfe gegen Dutzende von Gegnern.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0919/3d2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1178830/ss_1f2e3d4c5b6a7e8d9f0a1b2c3d4e5f6a7b8c9d0e.1920x1080.jpg"
       ],
       "price": 49.99,
-      "verdict": "Ambitioniert, aber buggy.",
+      "verdict": "Ein beeindruckendes Action-Spektakel mit tollem Art-Design.",
       "prosCons": {
-        "pros": ["Art-Design", "Soundtrack"],
-        "cons": ["Technische Probleme"]
+        "pros": ["Grafik", "Kampfsystem", "Bosskämpfe"],
+        "cons": ["Story teils wirr", "Kameraführung"]
+      }
+    },
+    {
+      "masterID": "Spiel8",
+      "name": "Death Stranding 2: On the Beach",
+      "releaseDate": "2025-06-26",
+      "platforms": ["PlayStation 5"],
+      "score": 95,
+      "genre": "Action / Strand-Simulation",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/DeathStranding/comments/1ds2",
+        "twitter": "https://twitter.com/Kojima_Hideo/status/1987654321",
+        "youtube": "https://www.youtube.com/watch?v=ds2_2025",
+        "instagram": "https://www.instagram.com/p/death_stranding_2/"
+      },
+      "author": "Kenny",
+      "postDate": "2025-06-28",
+      "shortDescription": "Die Reise geht weiter – noch seltsamer, noch emotionaler, noch weiter.",
+      "longDescription": "Hideo Kojima ist zurück mit dem nächsten Kapitel von Death Stranding. [IMAGE] Sam Bridges muss sich erneut auf eine epische Reise begeben, um die zersplitterte Menschheit zu einen – aber diesmal lauern neue Bedrochungen in Form von roboterartigen Feinden und noch mysteriöseren Strand-Phänomenen. Begleitet wird er von alten Freunden und neuen, skurrilen Gestalten auf einer Reise, die die Grenzen zwischen Leben und Tod weiter verschwimmen lässt.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202401/3111/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431870/header.jpg"
+      ],
+      "price": 79.99,
+      "verdict": "Kojima in Hochform – einzigartig, kinoreif und berührend.",
+      "prosCons": {
+        "pros": ["Atmosphäre", "Story", "Soundtrack", "Charaktere"],
+        "cons": ["Gameplay weiterhin polarisierend"]
+      }
+    },
+    {
+      "masterID": "Spiel9",
+      "name": "Fable (2025)",
+      "releaseDate": "2025-09-12",
+      "platforms": ["PC", "Xbox Series X"],
+      "score": 87,
+      "genre": "Action-RPG",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/Fable/comments/1n4fable",
+        "twitter": "https://twitter.com/playfable/status/1678450321",
+        "youtube": "https://www.youtube.com/watch?v=fable_reboot"
+      },
+      "author": "Tim",
+      "postDate": "2025-09-14",
+      "shortDescription": "Die Rückkehr nach Albion mit dem typisch britischen Humor.",
+      "longDescription": "Playground Games haucht der legendären Fable-Reihe neues Leben ein. [IMAGE] Dieses Reboot entführt die Spieler in die fantastische Welt Albion, die nun mit der Power der aktuellen Generation zum Leben erweckt wird. Im Kern bleibt alles beim Alten: Wähle deinen Weg, werde zum Helden – oder Schurken – und erlebe ein Abenteuer voller Humor, Magie und moralischer Entscheidungen.",
+      "imageLinks": [
+        "https://assets.xboxservices.com/assets/7b/8a/7b8a9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b.jpg?n=Fable_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/0918/5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c6d5.png"
+      ],
+      "price": 69.99,
+      "verdict": "Ein zauberhaftes Comeback für die beliebte Reihe.",
+      "prosCons": {
+        "pros": ["Humor", "Welt", "Freiheit"],
+        "cons": ["Kämpfe etwas einfach"]
+      }
+    },
+    {
+      "masterID": "Spiel10",
+      "name": "Gears of War: E-Day",
+      "releaseDate": "2025-10-15",
+      "platforms": ["PC", "Xbox Series X"],
+      "score": 89,
+      "genre": "Third-Person-Shooter",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/GearsOfWar/comments/1geday",
+        "twitter": "https://twitter.com/GearsofWar/status/1947351602",
+        "youtube": "https://www.youtube.com/watch?v=gow_eday"
+      },
+      "author": "Marco",
+      "postDate": "2025-10-17",
+      "shortDescription": "Erlebe den ersten Tag der Locust-Invasion aus nächster Nähe.",
+      "longDescription": "Das Prequel zur gefeierten Shooter-Reihe ist endlich da! [IMAGE] Gears of War: E-Day erzählt die düstere Ursprungsgeschichte des Krieges gegen die Locust-Horde. An der Seite des jungen Marcus Fenix und seines legendären Mentors Dominic Santiago kämpfst du in den engen Tunneln und verwüsteten Städten von Sera ums nackte Überleben – roher, intensiver und emotionaler als je zuvor.",
+      "imageLinks": [
+        "https://assets.xboxservices.com/assets/6d/8f/6d8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f.jpg?n=GearsE-Day_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3111430/header.jpg"
+      ],
+      "price": 79.99,
+      "verdict": "Ein düsteres, brutales und packendes Meisterwerk.",
+      "prosCons": {
+        "pros": ["Action", "Atmosphäre", "Charaktere"],
+        "cons": ["Kampagne kurz"]
+      }
+    },
+    {
+      "masterID": "Spiel11",
+      "name": "Elden Ring: Shadow of the Erdtree",
+      "releaseDate": "2025-02-25",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X", "PlayStation 4", "Xbox One"],
+      "score": 97,
+      "genre": "Action-RPG",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/Eldenring/comments/1sote",
+        "twitter": "https://twitter.com/ELDENRING/status/1786543921",
+        "youtube": "https://www.youtube.com/watch?v=sote_gameplay"
+      },
+      "author": "Kenny",
+      "postDate": "2025-02-26",
+      "shortDescription": "Die mit Spannung erwartete Erweiterung für das preisgekrönte Elden Ring.",
+      "longDescription": "Kehre zurück in das Zwischenland und begib dich in das völlig neue Gebiet 'Schatten des Erlbaums'. [IMAGE] FromSoftware hat mit diesem DLC ein weiteres Meisterwerk abgeliefert, das neue Waffen, Fähigkeiten, herausfordernde Bosse und eine tiefgründige, miteinander verwobene Geschichte einführt, die die Mythen um Miquella und den Schattenbaum enthüllt.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/2219/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg"
+      ],
+      "price": 39.99,
+      "verdict": "Ein makelloses Meisterwerk, das den Umfang eines vollwertigen Spiels hat.",
+      "prosCons": {
+        "pros": ["Umfang", "Bosse", "Erkundung"],
+        "cons": ["Schwierigkeit für manche frustrierend"]
+      }
+    },
+    {
+      "masterID": "Spiel12",
+      "name": "Metroid Prime 4: Beyond",
+      "releaseDate": "2025-06-05",
+      "platforms": ["Nintendo Switch 2"],
+      "score": 94,
+      "genre": "First-Person-Adventure",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/Metroid/comments/1mp4",
+        "twitter": "https://twitter.com/NintendoAmerica/status/1638492017",
+        "youtube": "https://www.youtube.com/watch?v=mp4_beyond"
+      },
+      "author": "Tim",
+      "postDate": "2025-06-07",
+      "shortDescription": "Samus Aran kehrt in ihrem ersten neuen Abenteuer seit Jahren zurück.",
+      "longDescription": "Nach langer Entwicklungszeit ist es endlich so weit: Samus Aran ist zurück! [IMAGE] Metroid Prime 4: Beyond setzt die gefeierte First-Person-Reihe fort und bietet eine neue, düstere Sci-Fi-Geschichte. Erkunde fremde Planeten, löse Rätsel, schalte neue Fähigkeiten frei und stelle dich gewaltigen Kreaturen in dieser technisch beeindruckenden Rückkehr der Kopfgeldjägerin.",
+      "imageLinks": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000085109/1f2e3d4c5b6a7e8d9f0a1b2c3d4e5f6a7b8c9d0e1.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2941940/header.jpg"
+      ],
+      "price": 69.99,
+      "verdict": "Ein Meisterwerk der Atmosphäre und des Leveldesigns.",
+      "prosCons": {
+        "pros": ["Atmosphäre", "Rätsel", "Erkundung"],
+        "cons": ["Steuerung gewöhnungsbedürftig"]
+      }
+    },
+    {
+      "masterID": "Spiel13",
+      "name": "Doom: The Dark Ages",
+      "releaseDate": "2025-11-21",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+      "score": 91,
+      "genre": "Ego-Shooter",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/Doom/comments/1tda",
+        "twitter": "https://twitter.com/DOOM/status/2109876543",
+        "youtube": "https://www.youtube.com/watch?v=doom_darkages"
+      },
+      "author": "Marco",
+      "postDate": "2025-11-23",
+      "shortDescription": "Erlebe die düstere, mittelalterliche Ursprungsgeschichte des Doom Slayers.",
+      "longDescription": "Bevor er zum Slayer wurde, war er der Doom-Krieger in einer von Finsternis erfüllten Ära. [IMAGE] Doom: The Dark Ages ist ein Prequel, das dich in eine fantasy-inspirierte Hölle entführt. Mit neuen, brutalen Nahkampfwaffen, einem feuerspeienden Drachen und einem riesigen, mechanischen Atlanten kämpfst du gegen höllische Legionen in einem gnadenlosen Rhythmus aus Gewalt und Heavy Metal.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0910/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013370/header.jpg"
+      ],
+      "price": 69.99,
+      "verdict": "Brutaler, intensiver und epischer als je zuvor.",
+      "prosCons": {
+        "pros": ["Soundtrack", "Action", "Waffendesign"],
+        "cons": ["Kampagne relativ kurz"]
+      }
+    },
+    {
+      "masterID": "Spiel14",
+      "name": "Mafia: The Old Country",
+      "releaseDate": "2025-08-14",
+      "platforms": ["PC", "PlayStation 5", "Xbox Series X"],
+      "score": 85,
+      "genre": "Action-Adventure",
+      "socialMedia": {
+        "reddit": "https://www.reddit.com/r/MafiaTheGame/comments/1motc",
+        "twitter": "https://twitter.com/mafiagame/status/1543267980",
+        "instagram": "https://www.instagram.com/p/mafia_the_old_country/"
+      },
+      "author": "Kenny",
+      "postDate": "2025-08-16",
+      "shortDescription": "Ein Prequel, das die Ursprünge der organisierten Kriminalität im rauen Sizilien erzählt.",
+      "longDescription": "Hangar 13 erzählt die Ursprungsgeschichte der Mafia. [IMAGE] In Mafia: The Old Country reisen wir ins Sizilien des frühen 20. Jahrhunderts. In einer düsteren und authentischen Welt erlebst du den Aufstieg einer Familie in einer Zeit der Gewalt, des Verrats und der Ehre. Der Fokus liegt wieder stärker auf einer linearen, erzählerischen Erfahrung und intensiver Atmosphäre.",
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1522/5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5.jpg",
+        "https://cdn.2kgames.com/2024/08/mafia_old_country_announce_art_16x9.jpg"
+      ],
+      "price": 59.99,
+      "verdict": "Ein atmosphärisches und packendes Mafia-Epos.",
+      "prosCons": {
+        "pros": ["Atmosphäre", "Story", "Setting"],
+        "cons": ["Spielgefühl etwas angestaubt"]
       }
     }
   ]
