@@ -2,38 +2,302 @@
   "news": [
     {
       "masterID": "NEWS001",
-      "title": "Neues Witcher 3-Update bringt Raytracing",
-      "author": "CD Projekt Red",
-      "postDate": "2023-11-28",
-      "slaveIDs": ["PATCH001", "DLC005"],
+      "title": "Avowed: Erste Verkaufszahlen übertreffen Erwartungen",
+      "author": "Marco",
+      "postDate": "2025-02-25",
+      "slaveIDs": ["Spiel1"],
       "imageLinks": [
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.suwalls.com%2Fwallpapers%2Fgames%2Fthe-witcher-3-wild-hunt-31455-1920x1080.jpg&f=1&nofb=1&ipt=5438e0d1b45bf8e0c27007c995950f7aea19602ac222a62bb2d7b7b60768ba07",
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamespot.com%2Fa%2Fuploads%2Fscreen_kubrick%2F1574%2F15746725%2F4076770-witcher3_site.jpg&f=1&nofb=1&ipt=0f0a13b9a64f8910785d1ec58a71c0ab81d698abcdf08f1f92f580dd53456efd"
+        "https://assets.xboxservices.com/assets/5f/9b/5f9b5b1a-dedf-4c10-a5df-1d1e5d6d8c4b.jpg?n=Avowed_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2454900/ss_8b2d1d0a3b1f2c3e4d5e6f7a8b9c0d1e2f3a4b5c.1920x1080.jpg"
       ],
-      "longDescription": "Das neueste Update für The Witcher 3 fügt Raytracing-Unterstützung hinzu... [IMAGE] (ausführliche Beschreibung).",
+      "longDescription": "Obsidian Entertainment feiert großen Erfolg mit ihrem neuen Fantasy-RPG Avowed. [IMAGE] Laut ersten Berichten konnte sich das Spiel in der ersten Woche weltweit über 3 Millionen Mal verkaufen und übertrifft damit die kühnsten Erwartungen des Publishers. Besonders gelobt werden die tiefgründige Welt und das überarbeitete Kampfsystem.",
       "socialMedia": {
-        "twitter": "https://twitter.com/witchergame/status/123456",
-        "youtube": "https://youtube.com/watch?v=abcd1234"
+        "twitter": "https://twitter.com/Obsidian/status/1894328765",
+        "reddit": "https://reddit.com/r/avowed/comments/1ixyz123"
       },
       "sources": {
-    "Twitter": "https://twitter.com/...",
-    "Website": "https://example.com/news"
+        "Twitter": "https://twitter.com/Obsidian/status/1894328765",
+        "Website": "https://news.xbox.com/avowed-sales"
       }
     },
     {
-      "masterID": "ID17",
-      "title": "Cyberpunk 2077: Phantom Liberty verkauft 5 Millionen Mal",
-      "author": "Marco",
-      "postDate": "2024-11-30",
-      "slaveIDs": ["DLC006"],
+      "masterID": "NEWS002",
+      "title": "Kingdom Come: Deliverance II erhält riesiges Day-One-Patch",
+      "author": "Kenny",
+      "postDate": "2025-02-03",
+      "slaveIDs": ["ID17"],
       "imageLinks": [
-        "https://static1.srcdn.com/wordpress/wp-content/uploads/sharedimages/2024/12/mixcollage-08-dec-2024-01-48-pm-7604.jpg?q=50&fit=crop&w=480&dpr=1.5",
-        "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgaming-cdn.com%2Fimages%2Fnews%2Farticles%2F4173%2Fcover%2Fcyberpunk-2077-phantom-liberty-verkauft-sich-uber-5-millionen-mal-cover6596df70e70d1.jpg&f=1&nofb=1&ipt=9194b0248e1b2da6337d99a0b1a73b507c377534f50c76490042228113341f16"
+        "https://image.api.playstation.com/vulcan/ap/rnd/202410/0806/3f7b2d8f8a6b4c3d2e1f0a9b8c7d6e5f4a3b2c1d.png",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1771300/header.jpg"
       ],
-      "shortDescription": "Test1",
-      "longDescription": "Der Erweiterung 'Phantom Liberty' gelang ein [IMAGE] starker Start...",
+      "longDescription": "Warhorse Studios hat einen umfangreichen Day-One-Patch für Kingdom Come: Deliverance II veröffentlicht. [IMAGE] Mit über 15 GB behebt der Patch nicht nur zahlreiche Bugs, sondern fügt auch neue Animationen und Verbesserungen der KI hinzu. Die Entwickler versprechen ein noch flüssigeres Spielerlebnis im mittelalterlichen Böhmen.",
       "socialMedia": {
-        "reddit": "https://reddit.com/r/cyberpunkgame/comments/xyz123"
+        "twitter": "https://twitter.com/KingdomComeRPG/status/1886357291",
+        "youtube": "https://youtube.com/watch?v=kc2patch"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/KingdomComeRPG/status/1886357291",
+        "Website": "https://warhorsestudios.com/news/day-one-patch"
+      }
+    },
+    {
+      "masterID": "NEWS003",
+      "title": "Assassin's Creed Shadows: Ubisoft kündigt Season Pass an",
+      "author": "Tim",
+      "postDate": "2025-03-01",
+      "slaveIDs": ["Spiel3"],
+      "imageLinks": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3042430/header.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202405/2719/2a7f8c9b8d4e6f2a1c3b5d7e9f0a1b2c3d4e5f6a.png"
+      ],
+      "longDescription": "Ubisoft hat Details zum Season Pass von Assassin's Creed Shadows enthüllt. [IMAGE] Neben der Hauptkampagne erwarten die Spieler zwei große Erweiterungen, die tief in die japanische Mythologie eintauchen. Außerdem enthalten: Exklusive Waffen und Rüstungen für Naoe und Yasuke sowie ein neuer Koop-Modus, der Monate nach Release nachgereicht wird.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/assassinscreed/status/1896234510",
+        "instagram": "https://instagram.com/p/assassinscreed_seasonpass"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/assassinscreed/status/1896234510",
+        "Website": "https://ubisoft.com/ac-shadows/season-pass"
+      }
+    },
+    {
+      "masterID": "NEWS004",
+      "title": "Monster Hunter Wilds bricht alle Rekorde auf Steam",
+      "author": "Marco",
+      "postDate": "2025-03-03",
+      "slaveIDs": ["Spiel4"],
+      "imageLinks": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000085107/0a5b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2246340/ss_9e8d7f6c5b4a3e2d1f0a9b8c7d6e5f4a3b2c1d0e.1920x1080.jpg"
+      ],
+      "longDescription": "Capcoms Monster Hunter Wilds hat am Launch-Wochenende einen neuen Rekord auf Steam aufgestellt. [IMAGE] Über 1,3 Millionen gleichzeitige Spieler jagten zeitgleich durch die dynamische Wildnis – mehr als jeder andere Teil der Reihe zuvor. Die Server hielten dem Ansturm stand, lediglich vereinzelte Verbindungsprobleme wurden gemeldet.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/monsterhunter/status/1897123456",
+        "reddit": "https://reddit.com/r/MonsterHunter/comments/1jwilds"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/monsterhunter/status/1897123456",
+        "Website": "https://steamdb.info/app/2246340/charts"
+      }
+    },
+    {
+      "masterID": "NEWS005",
+      "title": "Civilization VII: Erstes großes Update veröffentlicht",
+      "author": "Kenny",
+      "postDate": "2025-02-28",
+      "slaveIDs": ["Spiel5"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0705/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t.jpg",
+        "https://cdn.2kgames.com/2024/08/civvii_announce_art_16x9.jpg"
+      ],
+      "longDescription": "Firaxis hat das erste große Balancing-Update für Civilization VII veröffentlicht. [IMAGE] Patch 1.0.3 bringt zahlreiche Anpassungen an der KI, die nun weniger aggressive Kriegserklärungen ausspricht und sich besser auf wissenschaftliche Siege konzentriert. Außerdem wurden die von der Community kritisierten Handelsrouten überarbeitet.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/CivGame/status/1895432187",
+        "youtube": "https://youtube.com/watch?v=civ7update"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/CivGame/status/1895432187",
+        "Website": "https://civilization.com/news/update-103"
+      }
+    },
+    {
+      "masterID": "NEWS006",
+      "title": "Like a Dragon: Pirate Yakuza in Hawaii bekommt kostenlosen DLC",
+      "author": "Tim",
+      "postDate": "2025-03-10",
+      "slaveIDs": ["Spiel6"],
+      "imageLinks": [
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2670460/header.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202409/2400/8f7e6d5c4b3a2e1d0f9a8b7c6d5e4f3a2b1c0d9e.png"
+      ],
+      "longDescription": "Sega überrascht Fans mit einem kostenlosen Content-Update für Like a Dragon. [IMAGE] Majima erhält neue Piraten-Outfits, zusätzliche Schiffskomponenten für Seeschlachten und eine vollständig vertonte Nebenmission, die eine Brücke zu Yakuza 8 schlägt. Der DLC ist ab sofort für alle Plattformen verfügbar.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/ryugagotoku/status/1899234567",
+        "instagram": "https://instagram.com/p/likeadragon_dlc"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/ryugagotoku/status/1899234567",
+        "Website": "https://sega.com/likeadragon/news"
+      }
+    },
+    {
+      "masterID": "NEWS007",
+      "title": "Lost Soul Aside: Release auf den Monat vorgezogen",
+      "author": "Marco",
+      "postDate": "2025-04-15",
+      "slaveIDs": ["Spiel7"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202212/0919/3d2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a7b6c5d4e.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/1178830/ss_1f2e3d4c5b6a7e8d9f0a1b2c3d4e5f6a7b8c9d0e.1920x1080.jpg"
+      ],
+      "longDescription": "Gute Nachrichten für Action-Fans: Lost Soul Aside erscheint früher als geplant. [IMAGE] Publisher Sony Interactive Entertainment gab bekannt, dass der Titel bereits am 30. Mai 2025 erscheinen wird – einen Monat früher als ursprünglich angekündigt. Grund dafür seien die positiven Rückmeldungen aus der letzten Beta-Phase.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/PlayStation/status/1912345678",
+        "youtube": "https://youtube.com/watch?v=lsa_release"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/PlayStation/status/1912345678",
+        "Website": "https://playstation.com/games/lost-soul-aside"
+      }
+    },
+    {
+      "masterID": "NEWS008",
+      "title": "Death Stranding 2: Neuer Gameplay-Trailer veröffentlicht",
+      "author": "Kenny",
+      "postDate": "2025-05-20",
+      "slaveIDs": ["Spiel8"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202401/3111/8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2431870/header.jpg"
+      ],
+      "longDescription": "Hideo Kojima persönlich präsentierte auf dem State of Play einen ausführlichen Gameplay-Trailer zu Death Stranding 2. [IMAGE] Der 12-minütige Clip zeigt neue Fracht-Mechaniken, erweiterte Kampfszenen gegen mysteriöse Roboter und gewährt einen Blick auf Elle Fanning als neue, rätselhafte Verbündete. Der Release im Juni rückt immer näher.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/Kojima_Hideo/status/1923456789",
+        "youtube": "https://youtube.com/watch?v=ds2_gameplay"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/Kojima_Hideo/status/1923456789",
+        "Website": "https://kojimaproductions.jp/death-stranding-2"
+      }
+    },
+    {
+      "masterID": "NEWS009",
+      "title": "Fable: Entwickler-Tagebuch enthüllt Spielmechaniken",
+      "author": "Tim",
+      "postDate": "2025-08-01",
+      "slaveIDs": ["Spiel9"],
+      "imageLinks": [
+        "https://assets.xboxservices.com/assets/7b/8a/7b8a9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b.jpg?n=Fable_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://image.api.playstation.com/vulcan/ap/rnd/202010/0918/5c4d3e2f1a0b9c8d7e6f5a4b3c2d1e0f9a8b7c6d5.png"
+      ],
+      "longDescription": "Playground Games gewährt tiefe Einblicke in die Spielmechaniken des neuen Fable. [IMAGE] Im aktuellen Entwickler-Tagebuch erklären die Macher, wie Moral-Entscheidungen diesmal nicht nur das Aussehen des Helden, sondern ganze Dorfgemeinschaften beeinflussen. Auch das überarbeitete Magiesystem mit dynamischen Kombos wird detailliert vorgestellt.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/playfable/status/1956789123",
+        "youtube": "https://youtube.com/watch?v=fable_devdiary"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/playfable/status/1956789123",
+        "Website": "https://xbox.com/fable/dev-diary"
+      }
+    },
+    {
+      "masterID": "NEWS010",
+      "title": "Gears of War: E-Day zeigt erste Multiplayer-Details",
+      "author": "Marco",
+      "postDate": "2025-09-05",
+      "slaveIDs": ["Spiel10"],
+      "imageLinks": [
+        "https://assets.xboxservices.com/assets/6d/8f/6d8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d5e6f.jpg?n=GearsE-Day_GLP-Page-Hero-1084_1920x1080.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3111430/header.jpg"
+      ],
+      "longDescription": "The Coalition gibt erste Einblicke in den Multiplayer-Modus von Gears of War: E-Day. [IMAGE] Neben den klassischen Modi wie Todesmatch und Herrschaftsgebiet wird es einen neuen 'Escape'-Modus geben, in dem Spieler als junge Locust-Überlebende aus einem sinkenden U-Bahn-Tunnel fliehen müssen. Cross-Play zwischen PC und Xbox wird von Anfang an unterstützt.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/GearsofWar/status/1967891234",
+        "reddit": "https://reddit.com/r/GearsOfWar/comments/1mpleday"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/GearsofWar/status/1967891234",
+        "Website": "https://gearsofwar.com/news/multiplayer-details"
+      }
+    },
+    {
+      "masterID": "NEWS011",
+      "title": "Elden Ring: Shadow of the Erdtree erreicht Meilenstein",
+      "author": "Kenny",
+      "postDate": "2025-03-15",
+      "slaveIDs": ["Spiel11"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202402/2219/1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s0t.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2778580/header.jpg"
+      ],
+      "longDescription": "Die Erweiterung Shadow of the Erdtree für Elden Ring hat einen neuen Meilenstein erreicht. [IMAGE] Wie FromSoftware bekannt gab, wurde das Add-on mittlerweile über 10 Millionen Mal verkauft. Damit ist es die erfolgreichste Erweiterung in der Geschichte des Publishers und unterstreicht die anhaltende Beliebtheit des Open-World-Hits.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/ELDENRING/status/1901234567",
+        "youtube": "https://youtube.com/watch?v=sote_milestone"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/ELDENRING/status/1901234567",
+        "Website": "https://fromsoftware.jp/news/erdtree-10million"
+      }
+    },
+    {
+      "masterID": "NEWS012",
+      "title": "Metroid Prime 4: Beyond läuft in 4K auf Switch 2",
+      "author": "Tim",
+      "postDate": "2025-05-10",
+      "slaveIDs": ["Spiel12"],
+      "imageLinks": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000085109/1f2e3d4c5b6a7e8d9f0a1b2c3d4e5f6a7b8c9d0e1.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2941940/header.jpg"
+      ],
+      "longDescription": "Nintendo bestätigt: Metroid Prime 4: Beyond wird auf der neuen Switch 2 in flüssigen 4K bei 60 FPS laufen. [IMAGE] In einem technischen Deep Dive erklärten die Entwickler von Retro Studios, wie sie die verbesserte Hardware nutzen, um Raytracing-Effekte und extrem kurze Ladezeiten zu realisieren. Besitzer der ursprünglichen Switch erhalten ebenfalls ein Performance-Update.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/NintendoAmerica/status/1919876543",
+        "youtube": "https://youtube.com/watch?v=mp4_tech"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/NintendoAmerica/status/1919876543",
+        "Website": "https://nintendo.com/metroid-prime-4/tech"
+      }
+    },
+    {
+      "masterID": "NEWS013",
+      "title": "Doom: The Dark Ages Soundtrack kommt von Mick Gordon",
+      "author": "Marco",
+      "postDate": "2025-10-01",
+      "slaveIDs": ["Spiel13"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202406/0910/9a8b7c6d5e4f3a2b1c0d9e8f7a6b5c4d3e2f1a0b9.jpg",
+        "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3013370/header.jpg"
+      ],
+      "longDescription": "Große Neuigkeiten für Doom-Fans: Mick Gordon kehrt als Komponist für Doom: The Dark Ages zurück. [IMAGE] Nach langer Pause und öffentlichen Differenzen mit dem vorherigen Publisher haben sich id Software und Gordon wieder zusammengerauft. In einem ersten Teaser sind bereits brachiale Gitarrenriffs zu hören, die an die Erfolge von Doom (2016) erinnern.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/DOOM/status/1976543210",
+        "youtube": "https://youtube.com/watch?v=doom_soundtrack"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/DOOM/status/1976543210",
+        "Website": "https://idsoftware.com/doom-dark-ages/mick-gordon"
+      }
+    },
+    {
+      "masterID": "NEWS014",
+      "title": "Mafia: The Old Country erhält Altersfreigabe",
+      "author": "Kenny",
+      "postDate": "2025-07-20",
+      "slaveIDs": ["Spiel14"],
+      "imageLinks": [
+        "https://image.api.playstation.com/vulcan/ap/rnd/202408/1522/5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5.jpg",
+        "https://cdn.2kgames.com/2024/08/mafia_old_country_announce_art_16x9.jpg"
+      ],
+      "longDescription": "Kurz vor der geplanten Veröffentlichung hat Mafia: The Old Country die offizielle Altersfreigabe erhalten. [IMAGE] In Deutschland wurde das Prequel von der USK mit 'Keine Jugendfreigabe' (USK 18) eingestuft – aufgrund der düsteren Atmosphäre und expliziter Gewaltdarstellung, die das raue Sizilien des frühen 20. Jahrhunderts authentisch abbilden soll.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/mafiagame/status/1943210987",
+        "instagram": "https://instagram.com/p/mafia_usk"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/mafiagame/status/1943210987",
+        "Website": "https://usk.de/titel/mafia-the-old-country"
+      }
+    },
+    {
+      "masterID": "NEWS015",
+      "title": "Nintendo bestätigt: Switch 2 erscheint im Juni 2025",
+      "author": "Tim",
+      "postDate": "2025-02-15",
+      "slaveIDs": ["Spiel1", "Spiel12"],
+      "imageLinks": [
+        "https://assets.nintendo.com/image/upload/ar_16:9,c_lpad,w_1240/b_white/f_auto/q_auto/ncom/software/switch/70010000085109/switch2_announce.jpg",
+        "https://cdn.cloudflare.steamstatic.com/steam/apps/2941940/ss_switch2.1920x1080.jpg"
+      ],
+      "longDescription": "Nintendo hat endlich den Release-Termin für die mit Spannung erwartete Switch 2 bekannt gegeben. [IMAGE] Die neue Konsole erscheint weltweit am 15. Juni 2025 und wird neben Abwärtskompatibilität auch technische Verbesserungen für bestehende Titel wie Metroid Prime 4 und zukünftige Spiele bieten. Der Preis liegt bei 449 Euro.",
+      "socialMedia": {
+        "twitter": "https://twitter.com/NintendoEurope/status/1890123456",
+        "youtube": "https://youtube.com/watch?v=switch2_release"
+      },
+      "sources": {
+        "Twitter": "https://twitter.com/NintendoEurope/status/1890123456",
+        "Website": "https://nintendo.com/switch2"
       }
     }
   ]
