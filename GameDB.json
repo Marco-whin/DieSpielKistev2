@@ -1,26 +1,6 @@
 {
   "games": [
     {
-      "masterID": "GAME1773693681089",
-      "name": "asd",
-      "releaseDate": "",
-      "platforms": [],
-      "score": 0,
-      "genre": "",
-      "socialMedia": {},
-      "author": "",
-      "postDate": "2026-03-16",
-      "shortDescription": "",
-      "longDescription": "",
-      "imageLinks": [],
-      "price": 0,
-      "verdict": "",
-      "prosCons": {
-        "pros": [],
-        "cons": []
-      }
-    },
-    {
       "masterID": "Spiel1",
       "name": "Avowed",
       "releaseDate": "2025-02-18",
