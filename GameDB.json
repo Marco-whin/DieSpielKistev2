@@ -1,26 +1,6 @@
 {
   "games": [
     {
-      "masterID": "test",
-      "name": "test",
-      "releaseDate": "",
-      "platforms": [],
-      "score": 0,
-      "genre": "",
-      "socialMedia": {},
-      "author": "",
-      "postDate": "2026-03-16",
-      "shortDescription": "",
-      "longDescription": "",
-      "imageLinks": [],
-      "price": 0,
-      "verdict": "",
-      "prosCons": {
-        "pros": [],
-        "cons": []
-      }
-    },
-    {
       "masterID": "GAME1773693681089",
       "name": "asd",
       "releaseDate": "",
@@ -59,7 +39,7 @@
       "author": "Marco",
       "postDate": "2025-02-20",
       "shortDescription": "Ein First-Person Fantasy-RPG in der Welt von Eora.",
-      "longDescription": "Avowed ist das neue Fantasy-Epos von Obsidian Entertainment. [IMAGE] Spieler erkunden die lebendige und gefÃÂ¤hrliche Living Lands, ein von TrÃÂ¤umen und Plagen heimgesuchtes Grenzland. Der Kampf ist actionreich und erlaubt mÃÂ¤chtige Kombos aus Waffen und Magie.",
+      "longDescription": "Avowed ist das neue Fantasy-Epos von Obsidian Entertainment. [IMAGE] Spieler erkunden die lebendige und gefÃÂÃÂ¤hrliche Living Lands, ein von TrÃÂÃÂ¤umen und Plagen heimgesuchtes Grenzland. Der Kampf ist actionreich und erlaubt mÃÂÃÂ¤chtige Kombos aus Waffen und Magie.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gamerscore.com.br%2Fwp-content%2Fuploads%2F2024%2F01%2FAvowed.jpg&f=1&nofb=1&ipt=d954a71c3d4f432e1ab3c3ae1b49780534511d62324b98317561c1cf18de98f9",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F08%2Favowed-screenshot.jpg&f=1&nofb=1&ipt=24c1ce9a2a523a800147cad38f60c062e1518181326ccfcbc16e93bef2461583"
@@ -68,7 +48,7 @@
       "verdict": "Ein fesselnder Einstieg in ein neues Fantasy-Abenteuer.",
       "prosCons": {
         "pros": [
-          "KÃÂ¤mpfe",
+          "KÃÂÃÂ¤mpfe",
           "Weltendesign",
           "Charakterentwicklung"
         ],
@@ -95,14 +75,14 @@
       },
       "author": "Kenny",
       "postDate": "2025-02-06",
-      "shortDescription": "Setze Heinrichs Reise im mittelalterlichen BÃÂ¶hmen fort.",
-      "longDescription": "Der lang erwartete Nachfolger des beliebten Mittelalter-RPGs ist da! [IMAGE] Kingdom Come: Deliverance II baut auf allem auf, was das Original so besonders machte: historische AuthentizitÃÂ¤t, ein komplexes Kampfsystem und eine fesselnde Geschichte voller Intrigen und Rache.",
+      "shortDescription": "Setze Heinrichs Reise im mittelalterlichen BÃÂÃÂ¶hmen fort.",
+      "longDescription": "Der lang erwartete Nachfolger des beliebten Mittelalter-RPGs ist da! [IMAGE] Kingdom Come: Deliverance II baut auf allem auf, was das Original so besonders machte: historische AuthentizitÃÂÃÂ¤t, ein komplexes Kampfsystem und eine fesselnde Geschichte voller Intrigen und Rache.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2024%2F04%2Fkingdom-come-deliverance-2-fight-HD-scaled.jpg&f=1&nofb=1&ipt=97602f1838add88aaa60b870d3a2ac3a4d0be8614cfa5dba7d069ce37b406e16",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.deltiasgaming.com%2F2025%2F01%2FKCD-2-1.jpg&f=1&nofb=1&ipt=1ede3586901aa80979a4be940fc173b0809454654001893485887ce4be7ba052"
       ],
       "price": 59.99,
-      "verdict": "Ein wÃÂ¼rdiger Nachfolger und ein Muss fÃÂ¼r Fans historischer RPGs.",
+      "verdict": "Ein wÃÂÃÂ¼rdiger Nachfolger und ein Muss fÃÂÃÂ¼r Fans historischer RPGs.",
       "prosCons": {
         "pros": [
           "Immersion",
@@ -134,13 +114,13 @@
       "author": "Tim",
       "postDate": "2025-03-22",
       "shortDescription": "Erlebe das feudale Japan mit zwei einzigartigen Helden.",
-      "longDescription": "Ubisoft entfÃÂ¼hrt die Spieler endlich ins feudale Japan! [IMAGE] In Assassin's Creed Shadows schlÃÂ¼pfst du in die Rollen von Naoe, einer geschickten Shinobi-Assassinin, und Yasuke, dem legendÃÂ¤ren afrikanischen Samurai. Ihre unterschiedlichen Spielstile bieten frische Perspektiven auf die offene Welt.",
+      "longDescription": "Ubisoft entfÃÂÃÂ¼hrt die Spieler endlich ins feudale Japan! [IMAGE] In Assassin's Creed Shadows schlÃÂÃÂ¼pfst du in die Rollen von Naoe, einer geschickten Shinobi-Assassinin, und Yasuke, dem legendÃÂÃÂ¤ren afrikanischen Samurai. Ihre unterschiedlichen Spielstile bieten frische Perspektiven auf die offene Welt.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F05%2Fassassins-creed-shadows-scenic-shot.jpg&f=1&nofb=1&ipt=3daf17b2798c6b2a1cb7a9b4471478e60dda9d43605c6524feb2ead03146ef2a",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F03%2Fac-shadows-naoe-with-father-duel.jpg&f=1&nofb=1&ipt=30a7362c10cbea4289f5ed57283405afe45074237b1e0c6cb5a5b97ad52e0906"
       ],
       "price": 79.99,
-      "verdict": "Ein erfrischender Neustart fÃÂ¼r die Reihe mit starker AtmosphÃÂ¤re.",
+      "verdict": "Ein erfrischender Neustart fÃÂÃÂ¼r die Reihe mit starker AtmosphÃÂÃÂ¤re.",
       "prosCons": {
         "pros": [
           "Zwei Protagonisten",
@@ -149,7 +129,7 @@
         ],
         "cons": [
           "Typische Open-World-Struktur",
-          "UI ÃÂ¼berladen"
+          "UI ÃÂÃÂ¼berladen"
         ]
       }
     },
@@ -173,7 +153,7 @@
       "author": "Marco",
       "postDate": "2025-03-01",
       "shortDescription": "Jage gewaltige Monster in einer dynamischen, lebendigen Welt.",
-      "longDescription": "Die nÃÂ¤chste Generation der Monster Hunter-Reihe ist da! [IMAGE] Monster Hunter Wilds bietet eine nahtlos verbundene Karte, in der sich die Umgebung und das Verhalten der Monster durch WetterumschwÃÂ¼nge und Jahreszeiten dynamisch verÃÂ¤ndern. Stelle dich neuen und bekannten Bestien mit verbesserten Waffen und BewegungsmÃÂ¶glichkeiten.",
+      "longDescription": "Die nÃÂÃÂ¤chste Generation der Monster Hunter-Reihe ist da! [IMAGE] Monster Hunter Wilds bietet eine nahtlos verbundene Karte, in der sich die Umgebung und das Verhalten der Monster durch WetterumschwÃÂÃÂ¼nge und Jahreszeiten dynamisch verÃÂÃÂ¤ndern. Stelle dich neuen und bekannten Bestien mit verbesserten Waffen und BewegungsmÃÂÃÂ¶glichkeiten.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2024%2F08%2FMonster-Hunter-Wilds-HD-scaled.jpg&f=1&nofb=1&ipt=109b4d58ee0acfd1610d8cda8d7cd9d7f9502ccbff6621fc9dec3aab6e73f991",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.monsterhunter.com%2Fwilds%2Fassets%2Fimg%2Fyoutube%2F5th_trailer.jpg&f=1&nofb=1&ipt=17326ac07b83bb79767ac3c214ebf966ac196871633825294bf831b7f02c6122"
@@ -187,7 +167,7 @@
           "Kooperative Spiel"
         ],
         "cons": [
-          "EinstiegshÃÂ¼rde fÃÂ¼r Neulinge",
+          "EinstiegshÃÂÃÂ¼rde fÃÂÃÂ¼r Neulinge",
           "Story"
         ]
       }
@@ -213,14 +193,14 @@
       },
       "author": "Kenny",
       "postDate": "2025-02-12",
-      "shortDescription": "FÃÂ¼hre deine Zivilisation durch die Zeitalter und schreibe Geschichte.",
-      "longDescription": "Die legendÃÂ¤re Strategie-Reihe ist zurÃÂ¼ck mit bahnbrechenden Neuerungen! [IMAGE] Civilization VII fÃÂ¼hrt dynamische Zeitalterwechsel ein, die deine Entscheidungen und deine gewÃÂ¤hlte Kultur direkt beeinflussen. StÃÂ¤dte kÃÂ¶nnen sich nun ÃÂ¼ber mehrere Felder erstrecken und die Diplomatie wurde grundlegend ÃÂ¼berarbeitet, um realistischere Allianzen und Konflikte zu schaffen.",
+      "shortDescription": "FÃÂÃÂ¼hre deine Zivilisation durch die Zeitalter und schreibe Geschichte.",
+      "longDescription": "Die legendÃÂÃÂ¤re Strategie-Reihe ist zurÃÂÃÂ¼ck mit bahnbrechenden Neuerungen! [IMAGE] Civilization VII fÃÂÃÂ¼hrt dynamische Zeitalterwechsel ein, die deine Entscheidungen und deine gewÃÂÃÂ¤hlte Kultur direkt beeinflussen. StÃÂÃÂ¤dte kÃÂÃÂ¶nnen sich nun ÃÂÃÂ¼ber mehrere Felder erstrecken und die Diplomatie wurde grundlegend ÃÂÃÂ¼berarbeitet, um realistischere Allianzen und Konflikte zu schaffen.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.gagadget.com%2Fmedia%2Fuploads%2Fsid-meiers-civilization.jpg&f=1&nofb=1&ipt=408d8d756746421e2d154970e06efc3a0389fbc3bc71b853bf5a306c940d2ba3",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg.gg.deals%2Fb9%2F18%2Fa8883625bbe0a219774030301c4db7e09bf1_1920xt1080_S1000.jpg&f=1&nofb=1&ipt=3cba948015c9693d70837cccf6b82f60cfd9fd7535b941bb033220df3f17127c"
       ],
       "price": 69.99,
-      "verdict": "Ein weiterer Meilenstein fÃÂ¼r das Strategiespiel-Genre.",
+      "verdict": "Ein weiterer Meilenstein fÃÂÃÂ¼r das Strategiespiel-Genre.",
       "prosCons": {
         "pros": [
           "Neues Zeitalter-System",
@@ -253,13 +233,13 @@
       "author": "Tim",
       "postDate": "2025-02-22",
       "shortDescription": "Goro Majima legt sich ein Piratenoutfit zu und erobert die Meere.",
-      "longDescription": "Der verrÃÂ¼ckteste Ableger der Like a Dragon-Reihe ist da! [IMAGE] Dieses Mal steuern wir den verrÃÂ¼ckten Hund von Shimano, Goro Majima, der mit Amnesie an den StrÃÂ¤nden Hawaiis angespÃÂ¼lt wird. Schnell schart er eine Piratencrew um sich, liefert sich actionreiche Seeschlachten und sucht nach einem legendÃÂ¤ren Schatz Ã¢ÂÂ natÃÂ¼rlich mit dem typischen, irren Humor der Reihe.",
+      "longDescription": "Der verrÃÂÃÂ¼ckteste Ableger der Like a Dragon-Reihe ist da! [IMAGE] Dieses Mal steuern wir den verrÃÂÃÂ¼ckten Hund von Shimano, Goro Majima, der mit Amnesie an den StrÃÂÃÂ¤nden Hawaiis angespÃÂÃÂ¼lt wird. Schnell schart er eine Piratencrew um sich, liefert sich actionreiche Seeschlachten und sucht nach einem legendÃÂÃÂ¤ren Schatz ÃÂ¢ÃÂÃÂ natÃÂÃÂ¼rlich mit dem typischen, irren Humor der Reihe.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.nichegamer.com%2Fwp-content%2Fuploads%2F2024%2F09%2Flike-a-dragon-pirate-yakuza-0-20-24-1.jpg&f=1&nofb=1&ipt=33cb046bc9909e2075413497dd81e6964964b867e47db1e9a9d6c0e5e37bf8fc",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic1.srcdn.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F09%2Flike-a-dragon-pirates.jpg&f=1&nofb=1&ipt=dbcd441a586c17cd375c483e4da93d168f90b3b0e78b074bfbaabf9b8c3c00c5"
       ],
       "price": 59.99,
-      "verdict": "Majima in Bestform Ã¢ÂÂ ein wilder Ritt fÃÂ¼r Fans und Neulinge.",
+      "verdict": "Majima in Bestform ÃÂ¢ÃÂÃÂ ein wilder Ritt fÃÂÃÂ¼r Fans und Neulinge.",
       "prosCons": {
         "pros": [
           "Charaktere",
@@ -267,7 +247,7 @@
           "Story"
         ],
         "cons": [
-          "KÃÂ¤mpfe repetitiv"
+          "KÃÂÃÂ¤mpfe repetitiv"
         ]
       }
     },
@@ -289,7 +269,7 @@
       "author": "Marco",
       "postDate": "2025-06-01",
       "shortDescription": "Ein stylishes Action-RPG, inspiriert von Final Fantasy und Devil May Cry.",
-      "longDescription": "Das Indie-Projekt, das die Herzen der Fans hÃÂ¶her schlagen lieÃÂ, ist endlich fertig! [IMAGE] Lost Soul Aside ist ein visuell atemberaubendes Action-RPG, in dem der Protagonist Kaser eine symbiotische Verbindung mit einem mysteriÃÂ¶sen Kreaturenwesen eingeht. Gemeinsam kÃÂ¤mpfen sie sich durch atemberaubende Landschaften und liefern sich blitzschnelle KÃÂ¤mpfe gegen Dutzende von Gegnern.",
+      "longDescription": "Das Indie-Projekt, das die Herzen der Fans hÃÂÃÂ¶her schlagen lieÃÂÃÂ, ist endlich fertig! [IMAGE] Lost Soul Aside ist ein visuell atemberaubendes Action-RPG, in dem der Protagonist Kaser eine symbiotische Verbindung mit einem mysteriÃÂÃÂ¶sen Kreaturenwesen eingeht. Gemeinsam kÃÂÃÂ¤mpfen sie sich durch atemberaubende Landschaften und liefern sich blitzschnelle KÃÂÃÂ¤mpfe gegen Dutzende von Gegnern.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimage.api.playstation.com%2Fvulcan%2Fap%2Frnd%2F202502%2F0411%2F3f605d5c4c35d4d69b0582c787a656446da7cd59ab99971c.jpg&f=1&nofb=1&ipt=c5c0a50898dfe15ce97904df91c7e3e2e5e9daa817a7bdf3b49338f2b2ccb934",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.deltiasgaming.com%2F2025%2F03%2FLSA-2.jpg&f=1&nofb=1&ipt=bdd5cc8f9c567d0819d17945d21556f93713a2d88e854a454b660a865a7caafe"
@@ -300,11 +280,11 @@
         "pros": [
           "Grafik",
           "Kampfsystem",
-          "BosskÃÂ¤mpfe"
+          "BosskÃÂÃÂ¤mpfe"
         ],
         "cons": [
           "Story teils wirr",
-          "KamerafÃÂ¼hrung"
+          "KamerafÃÂÃÂ¼hrung"
         ]
       }
     },
@@ -325,17 +305,17 @@
       },
       "author": "Kenny",
       "postDate": "2025-06-28",
-      "shortDescription": "Die Reise geht weiter Ã¢ÂÂ noch seltsamer, noch emotionaler, noch weiter.",
-      "longDescription": "Hideo Kojima ist zurÃÂ¼ck mit dem nÃÂ¤chsten Kapitel von Death Stranding. [IMAGE] Sam Bridges muss sich erneut auf eine epische Reise begeben, um die zersplitterte Menschheit zu einen Ã¢ÂÂ aber diesmal lauern neue Bedrochungen in Form von roboterartigen Feinden und noch mysteriÃÂ¶seren Strand-PhÃÂ¤nomenen. Begleitet wird er von alten Freunden und neuen, skurrilen Gestalten auf einer Reise, die die Grenzen zwischen Leben und Tod weiter verschwimmen lÃÂ¤sst.",
+      "shortDescription": "Die Reise geht weiter ÃÂ¢ÃÂÃÂ noch seltsamer, noch emotionaler, noch weiter.",
+      "longDescription": "Hideo Kojima ist zurÃÂÃÂ¼ck mit dem nÃÂÃÂ¤chsten Kapitel von Death Stranding. [IMAGE] Sam Bridges muss sich erneut auf eine epische Reise begeben, um die zersplitterte Menschheit zu einen ÃÂ¢ÃÂÃÂ aber diesmal lauern neue Bedrochungen in Form von roboterartigen Feinden und noch mysteriÃÂÃÂ¶seren Strand-PhÃÂÃÂ¤nomenen. Begleitet wird er von alten Freunden und neuen, skurrilen Gestalten auf einer Reise, die die Grenzen zwischen Leben und Tod weiter verschwimmen lÃÂÃÂ¤sst.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.alza.cz%2FFoto%2FImgGalery%2FImage%2Fdeath-stranding-sam-lou-keyart.jpg&f=1&nofb=1&ipt=cffebe5fce90d13f308cb140e5c1b2f16d154c0fe8a72cf8c82571d903cb8403",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.kojimaproductions.jp%2Fsites%2Fdefault%2Ffiles%2F2025-03%2Fds2_sxsw2025_screenshots003.jpg&f=1&nofb=1&ipt=4efaa2c714d747afe34742f5e9d6d8b869b79d9e3f8d2b6e6dcae08f02c82bb5"
       ],
       "price": 79.99,
-      "verdict": "Kojima in Hochform Ã¢ÂÂ einzigartig, kinoreif und berÃÂ¼hrend.",
+      "verdict": "Kojima in Hochform ÃÂ¢ÃÂÃÂ einzigartig, kinoreif und berÃÂÃÂ¼hrend.",
       "prosCons": {
         "pros": [
-          "AtmosphÃÂ¤re",
+          "AtmosphÃÂÃÂ¤re",
           "Story",
           "Soundtrack",
           "Charaktere"
@@ -362,14 +342,14 @@
       },
       "author": "Tim",
       "postDate": "2025-09-14",
-      "shortDescription": "Die RÃÂ¼ckkehr nach Albion mit dem typisch britischen Humor.",
-      "longDescription": "Playground Games haucht der legendÃÂ¤ren Fable-Reihe neues Leben ein. [IMAGE] Dieses Reboot entfÃÂ¼hrt die Spieler in die fantastische Welt Albion, die nun mit der Power der aktuellen Generation zum Leben erweckt wird. Im Kern bleibt alles beim Alten: WÃÂ¤hle deinen Weg, werde zum Helden Ã¢ÂÂ oder Schurken Ã¢ÂÂ und erlebe ein Abenteuer voller Humor, Magie und moralischer Entscheidungen.",
+      "shortDescription": "Die RÃÂÃÂ¼ckkehr nach Albion mit dem typisch britischen Humor.",
+      "longDescription": "Playground Games haucht der legendÃÂÃÂ¤ren Fable-Reihe neues Leben ein. [IMAGE] Dieses Reboot entfÃÂÃÂ¼hrt die Spieler in die fantastische Welt Albion, die nun mit der Power der aktuellen Generation zum Leben erweckt wird. Im Kern bleibt alles beim Alten: WÃÂÃÂ¤hle deinen Weg, werde zum Helden ÃÂ¢ÃÂÃÂ oder Schurken ÃÂ¢ÃÂÃÂ und erlebe ein Abenteuer voller Humor, Magie und moralischer Entscheidungen.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.wccftech.com%2Fwp-content%2Fuploads%2F2021%2F05%2Ffable_logo_trailer-scaled.jpg&f=1&nofb=1&ipt=8422a8a0378b8c139a57579b2c123a5d374c74f6f8cbc5aaa52d1e5fa318f5ae",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.siliconera.com%2Fwp-content%2Fuploads%2F2024%2F06%2Ffable2025.png&f=1&nofb=1&ipt=5a91775c881ee6b137c458054701ad924783ae11e1b9329535d0930bd32a093d"
       ],
       "price": 69.99,
-      "verdict": "Ein zauberhaftes Comeback fÃÂ¼r die beliebte Reihe.",
+      "verdict": "Ein zauberhaftes Comeback fÃÂÃÂ¼r die beliebte Reihe.",
       "prosCons": {
         "pros": [
           "Humor",
@@ -377,7 +357,7 @@
           "Freiheit"
         ],
         "cons": [
-          "KÃÂ¤mpfe etwas einfach"
+          "KÃÂÃÂ¤mpfe etwas einfach"
         ]
       }
     },
@@ -398,18 +378,18 @@
       },
       "author": "Marco",
       "postDate": "2025-10-17",
-      "shortDescription": "Erlebe den ersten Tag der Locust-Invasion aus nÃÂ¤chster NÃÂ¤he.",
-      "longDescription": "Das Prequel zur gefeierten Shooter-Reihe ist endlich da! [IMAGE] Gears of War: E-Day erzÃÂ¤hlt die dÃÂ¼stere Ursprungsgeschichte des Krieges gegen die Locust-Horde. An der Seite des jungen Marcus Fenix und seines legendÃÂ¤ren Mentors Dominic Santiago kÃÂ¤mpfst du in den engen Tunneln und verwÃÂ¼steten StÃÂ¤dten von Sera ums nackte ÃÂberleben Ã¢ÂÂ roher, intensiver und emotionaler als je zuvor.",
+      "shortDescription": "Erlebe den ersten Tag der Locust-Invasion aus nÃÂÃÂ¤chster NÃÂÃÂ¤he.",
+      "longDescription": "Das Prequel zur gefeierten Shooter-Reihe ist endlich da! [IMAGE] Gears of War: E-Day erzÃÂÃÂ¤hlt die dÃÂÃÂ¼stere Ursprungsgeschichte des Krieges gegen die Locust-Horde. An der Seite des jungen Marcus Fenix und seines legendÃÂÃÂ¤ren Mentors Dominic Santiago kÃÂÃÂ¤mpfst du in den engen Tunneln und verwÃÂÃÂ¼steten StÃÂÃÂ¤dten von Sera ums nackte ÃÂÃÂberleben ÃÂ¢ÃÂÃÂ roher, intensiver und emotionaler als je zuvor.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F06%2Fwhy-gears-of-war-e-day-could-bring-back-tai-kaliso-and-raam.jpg&f=1&nofb=1&ipt=5b986fa9c74f045fd2e7efe2eda697d477b164f5524576cade6198c889c29cb8",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fshared.akamai.steamstatic.com%2Fstore_item_assets%2Fsteam%2Fapps%2F3010850%2Fss_62c50445500fd5db46935dde30de7e62af3234f2.1920x1080.jpg%3Ft%3D1717973561&f=1&nofb=1&ipt=3b6dcb0e786742d791b369487a0992937d63b5c431805aea8fa049b0adbf0fbc"
       ],
       "price": 79.99,
-      "verdict": "Ein dÃÂ¼steres, brutales und packendes Meisterwerk.",
+      "verdict": "Ein dÃÂÃÂ¼steres, brutales und packendes Meisterwerk.",
       "prosCons": {
         "pros": [
           "Action",
-          "AtmosphÃÂ¤re",
+          "AtmosphÃÂÃÂ¤re",
           "Charaktere"
         ],
         "cons": [
@@ -437,8 +417,8 @@
       },
       "author": "Kenny",
       "postDate": "2025-02-26",
-      "shortDescription": "Die mit Spannung erwartete Erweiterung fÃÂ¼r das preisgekrÃÂ¶nte Elden Ring.",
-      "longDescription": "Kehre zurÃÂ¼ck in das Zwischenland und begib dich in das vÃÂ¶llig neue Gebiet 'Schatten des Erlbaums'. [IMAGE] FromSoftware hat mit diesem DLC ein weiteres Meisterwerk abgeliefert, das neue Waffen, FÃÂ¤higkeiten, herausfordernde Bosse und eine tiefgrÃÂ¼ndige, miteinander verwobene Geschichte einfÃÂ¼hrt, die die Mythen um Miquella und den Schattenbaum enthÃÂ¼llt.",
+      "shortDescription": "Die mit Spannung erwartete Erweiterung fÃÂÃÂ¼r das preisgekrÃÂÃÂ¶nte Elden Ring.",
+      "longDescription": "Kehre zurÃÂÃÂ¼ck in das Zwischenland und begib dich in das vÃÂÃÂ¶llig neue Gebiet 'Schatten des Erlbaums'. [IMAGE] FromSoftware hat mit diesem DLC ein weiteres Meisterwerk abgeliefert, das neue Waffen, FÃÂÃÂ¤higkeiten, herausfordernde Bosse und eine tiefgrÃÂÃÂ¼ndige, miteinander verwobene Geschichte einfÃÂÃÂ¼hrt, die die Mythen um Miquella und den Schattenbaum enthÃÂÃÂ¼llt.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F06%2Felden-ring-shadow-of-the-erdtree-huge-boss.jpg&f=1&nofb=1&ipt=28d18378cc83786860a1f7d1aaa3c1c5e0cade98981d9197bf859c4eb5257e52",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2024%2F09%2Felden-ring-shadow-of-the-erdtree-putrescent-knight.jpg&f=1&nofb=1&ipt=a66f2d6498733c0d1d68e41eed99a73c737fa989b5b4521e9ac5f88dfff10af8"
@@ -452,7 +432,7 @@
           "Erkundung"
         ],
         "cons": [
-          "Schwierigkeit fÃÂ¼r manche frustrierend"
+          "Schwierigkeit fÃÂÃÂ¼r manche frustrierend"
         ]
       }
     },
@@ -472,22 +452,22 @@
       },
       "author": "Tim",
       "postDate": "2025-06-07",
-      "shortDescription": "Samus Aran kehrt in ihrem ersten neuen Abenteuer seit Jahren zurÃÂ¼ck.",
-      "longDescription": "Nach langer Entwicklungszeit ist es endlich so weit: Samus Aran ist zurÃÂ¼ck! [IMAGE] Metroid Prime 4: Beyond setzt die gefeierte First-Person-Reihe fort und bietet eine neue, dÃÂ¼stere Sci-Fi-Geschichte. Erkunde fremde Planeten, lÃÂ¶se RÃÂ¤tsel, schalte neue FÃÂ¤higkeiten frei und stelle dich gewaltigen Kreaturen in dieser technisch beeindruckenden RÃÂ¼ckkehr der KopfgeldjÃÂ¤gerin.",
+      "shortDescription": "Samus Aran kehrt in ihrem ersten neuen Abenteuer seit Jahren zurÃÂÃÂ¼ck.",
+      "longDescription": "Nach langer Entwicklungszeit ist es endlich so weit: Samus Aran ist zurÃÂÃÂ¼ck! [IMAGE] Metroid Prime 4: Beyond setzt die gefeierte First-Person-Reihe fort und bietet eine neue, dÃÂÃÂ¼stere Sci-Fi-Geschichte. Erkunde fremde Planeten, lÃÂÃÂ¶se RÃÂÃÂ¤tsel, schalte neue FÃÂÃÂ¤higkeiten frei und stelle dich gewaltigen Kreaturen in dieser technisch beeindruckenden RÃÂÃÂ¼ckkehr der KopfgeldjÃÂÃÂ¤gerin.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-eshop.cdn.nintendo.net%2Fi%2F699771bb191ec442ace32b18c90ff68852e641cce963e901fca2d167897da166.jpg&f=1&nofb=1&ipt=304bec1af426b18b07d9985d2d9abdff677746934eae4409bff06824a58660ff",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.nintendolife.com%2Fb4be564822caf%2Flarge.jpg&f=1&nofb=1&ipt=a75e9ed421d3c5bffa5e2177e0e66aebe993bfd475941d6929e3592e0e2d181f"
       ],
       "price": 69.99,
-      "verdict": "Ein Meisterwerk der AtmosphÃÂ¤re und des Leveldesigns.",
+      "verdict": "Ein Meisterwerk der AtmosphÃÂÃÂ¤re und des Leveldesigns.",
       "prosCons": {
         "pros": [
-          "AtmosphÃÂ¤re",
-          "RÃÂ¤tsel",
+          "AtmosphÃÂÃÂ¤re",
+          "RÃÂÃÂ¤tsel",
           "Erkundung"
         ],
         "cons": [
-          "Steuerung gewÃÂ¶hnungsbedÃÂ¼rftig"
+          "Steuerung gewÃÂÃÂ¶hnungsbedÃÂÃÂ¼rftig"
         ]
       }
     },
@@ -509,8 +489,8 @@
       },
       "author": "Marco",
       "postDate": "2025-11-23",
-      "shortDescription": "Erlebe die dÃÂ¼stere, mittelalterliche Ursprungsgeschichte des Doom Slayers.",
-      "longDescription": "Bevor er zum Slayer wurde, war er der Doom-Krieger in einer von Finsternis erfÃÂ¼llten ÃÂra. [IMAGE] Doom: The Dark Ages ist ein Prequel, das dich in eine fantasy-inspirierte HÃÂ¶lle entfÃÂ¼hrt. Mit neuen, brutalen Nahkampfwaffen, einem feuerspeienden Drachen und einem riesigen, mechanischen Atlanten kÃÂ¤mpfst du gegen hÃÂ¶llische Legionen in einem gnadenlosen Rhythmus aus Gewalt und Heavy Metal.",
+      "shortDescription": "Erlebe die dÃÂÃÂ¼stere, mittelalterliche Ursprungsgeschichte des Doom Slayers.",
+      "longDescription": "Bevor er zum Slayer wurde, war er der Doom-Krieger in einer von Finsternis erfÃÂÃÂ¼llten ÃÂÃÂra. [IMAGE] Doom: The Dark Ages ist ein Prequel, das dich in eine fantasy-inspirierte HÃÂÃÂ¶lle entfÃÂÃÂ¼hrt. Mit neuen, brutalen Nahkampfwaffen, einem feuerspeienden Drachen und einem riesigen, mechanischen Atlanten kÃÂÃÂ¤mpfst du gegen hÃÂÃÂ¶llische Legionen in einem gnadenlosen Rhythmus aus Gewalt und Heavy Metal.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.mweb.bethesda.net%2F_images%2Fdoom-the-dark-ages%2FDOOM-TheDarkAges_Premium_16x9.jpg%3Ff%3Djpg%26h%3D1079%26w%3D1920%26s%3DwrnXw0NqjpBB8BAL93SQejSuBLgPWjt3DSULy3ddyug&f=1&nofb=1&ipt=b3d349863eef7b5bcedafb950b068239369bee5ca210956f2e07fcc3ac81988e",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic0.gamerantimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2025%2F02%2Fdoom-the-dark-ages-screenshot-1.jpg&f=1&nofb=1&ipt=08f25bc2c73143103897447b0937dafe00168a3bc96dee6f6727c67f9d9f3a47"
@@ -546,22 +526,22 @@
       },
       "author": "Kenny",
       "postDate": "2025-08-16",
-      "shortDescription": "Ein Prequel, das die UrsprÃÂ¼nge der organisierten KriminalitÃÂ¤t im rauen Sizilien erzÃÂ¤hlt.",
-      "longDescription": "Hangar 13 erzÃÂ¤hlt die Ursprungsgeschichte der Mafia. [IMAGE] In Mafia: The Old Country reisen wir ins Sizilien des frÃÂ¼hen 20. Jahrhunderts. In einer dÃÂ¼steren und authentischen Welt erlebst du den Aufstieg einer Familie in einer Zeit der Gewalt, des Verrats und der Ehre. Der Fokus liegt wieder stÃÂ¤rker auf einer linearen, erzÃÂ¤hlerischen Erfahrung und intensiver AtmosphÃÂ¤re.",
+      "shortDescription": "Ein Prequel, das die UrsprÃÂÃÂ¼nge der organisierten KriminalitÃÂÃÂ¤t im rauen Sizilien erzÃÂÃÂ¤hlt.",
+      "longDescription": "Hangar 13 erzÃÂÃÂ¤hlt die Ursprungsgeschichte der Mafia. [IMAGE] In Mafia: The Old Country reisen wir ins Sizilien des frÃÂÃÂ¼hen 20. Jahrhunderts. In einer dÃÂÃÂ¼steren und authentischen Welt erlebst du den Aufstieg einer Familie in einer Zeit der Gewalt, des Verrats und der Ehre. Der Fokus liegt wieder stÃÂÃÂ¤rker auf einer linearen, erzÃÂÃÂ¤hlerischen Erfahrung und intensiver AtmosphÃÂÃÂ¤re.",
       "imageLinks": [
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fgagadget.com%2Fmedia%2Fpost_big%2Fijpojg_JHim9c1.jpg&f=1&nofb=1&ipt=7e81d6e618beffe50c4cbf8113081c7e27ecef383bbda2a778beceb39796278d",
         "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.videogameschronicle.com%2Ffiles%2F2024%2F12%2Fmafia-the-old-country-pic2.jpg&f=1&nofb=1&ipt=702b14683aad5960a3a3b14c83ff5f27fe165a9d9305eb0f68f971741177e407"
       ],
       "price": 59.99,
-      "verdict": "Ein atmosphÃÂ¤risches und packendes Mafia-Epos.",
+      "verdict": "Ein atmosphÃÂÃÂ¤risches und packendes Mafia-Epos.",
       "prosCons": {
         "pros": [
-          "AtmosphÃÂ¤re",
+          "AtmosphÃÂÃÂ¤re",
           "Story",
           "Setting"
         ],
         "cons": [
-          "SpielgefÃÂ¼hl etwas angestaubt"
+          "SpielgefÃÂÃÂ¼hl etwas angestaubt"
         ]
       }
     }
